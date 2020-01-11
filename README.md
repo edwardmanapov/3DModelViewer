@@ -1,2 +1,2 @@
 # 3DModelViewer
-OpenGL based 3D model viewer
+An OpenGL based 3D Model Viewer
